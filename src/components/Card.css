@@ -1,0 +1,40 @@
+.Card{
+    width: 35%;
+    height: 300px;
+    border-radius: 8px;
+    background-color: hsl(217, 19%, 24%);
+    text-align: center;
+    margin: 0 auto;
+    position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+   
+}
+.Card-heading{
+ color: hsl(150, 100%, 66%);
+ font-size: 25px;
+}
+p{
+    margin-top: 45px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Manrope', sans-serif;
+}
+
+.pt-divider{
+    margin-top: 60px;
+}
+
+.Dice-div{
+    margin-top: 60px;
+    margin-left: 225px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: hsl(150, 100%, 66%);
+    position: fixed;
+}
+.Dice{
+   margin-top: 10px;
+}
